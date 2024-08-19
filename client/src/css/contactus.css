@@ -1,0 +1,89 @@
+
+/* Default styles */
+.contactD{
+    display: flex;
+}
+
+.CformDiv {
+    display: flex;
+}
+
+.CformInput1, .CformInput2, .CformInput3, .CformInput4 {
+    font-size: 15px;
+    border: 1px solid rgb(198, 197, 197);
+    margin:50px 0 0 80px;
+    padding: 10px 150px 10px 15px;
+    border-radius: 5px;
+    outline:none;
+}
+
+.CformInput2, .CformInput4 {
+    margin-left: 20px;
+}
+
+.CformInput3, .CformInput4 {
+    margin-top: 20px;
+}
+
+.CtextArea {
+    border: 1px solid rgb(198, 197, 197);
+    margin: 20px 0 0 80px;
+    padding: 10px 505px 50px 10px;
+    border-radius: 5px;
+}
+.CformInput1:hover, .CformInput2:hover, .CformInput3:hover, .CformInput4:hover , .CtextArea:hover {
+    border: 1px solid #c8ab55;
+    outline: none;
+}
+.CformBtn {
+    color: white;
+    font-weight: bold;
+    background-color: #c8ab55;
+    margin: 30px 0 0 360px;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+.CformBtn:hover {
+    background-color: #E3C363;
+}
+/* addres */
+.contactLi1{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 35px;
+    font-weight: bold;
+    color: rgb(121, 120, 120);
+}
+.contactIcon1{
+    color: #c8ab55;
+    width: 25px;
+    height: 25px;
+}
+/* ************************ */
+.contactLi2{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 40px;
+    font-weight: bold;
+    color: rgb(121, 120, 120);
+}
+.contactIcon2{
+    color: #c8ab55;
+    width: 20px;
+    height: 20px;
+   
+}
+/* ************************* */
+.contactLi3{
+    color:#c8ab55;
+    font-weight: bold;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 37px;
+}
+.contactIcon3{
+    color: #c8ab55;
+    width: 25px;
+    height: 25px;
+}

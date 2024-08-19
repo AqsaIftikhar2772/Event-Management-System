@@ -1,0 +1,92 @@
+.WimageD{
+    display: flex;
+}
+/* ********************first line*********************** */
+.Wimage1{
+    width: 350px;
+    height: 200px;
+    margin: 20px 8px 8px 70px ;
+
+}
+.Wimage2{
+    width: 200px;
+    height: 200px;
+    margin: 20px  8px 8px 0;
+}
+/* *****************second line / four line*********************** */
+.Wimage6{
+    width: 230px;
+    height: 200px;
+    margin: 0  8px 10px 70px;
+}
+.Wimage7 , .Wimage9{
+    width: 170px;
+    height: 200px;
+    margin: 0  8px 10px 0;
+}
+.Wimage8{
+    width: 350px;
+    height: 200px;
+    margin: 0 8px 8px 0 ;
+}
+.Wimage10{
+    width: 230px;
+    height: 200px;
+    margin: 0 8px 8px 0 ;
+}
+/* ******************third line****************** */
+.Wimage11{
+    width: 370px;
+    height: 200px;
+    margin: 0  8px 10px 70px;
+}
+.Wimage12{
+    width: 390px;
+    height: 200px;
+    margin: 0 8px 8px 0 ;
+}
+.Wimage13{
+    width: 405px;
+    height: 200px;
+    margin: 0 8px 8px 0 ;
+}
+/* ****************five line****************** */
+.Wimage19{
+    width: 300px;
+    height: 200px;
+    margin: 0  8px 10px 70px;
+}
+.Wimage20{
+    width: 200px;
+    height: 200px;
+    margin: 0 8px 8px 0 ;
+}
+.Wimage21{
+    width: 170px;
+    height: 200px;
+    margin: 0 8px 8px 0 ;
+}
+.Wimage22{
+    width: 250px;
+    height: 200px;
+    margin: 0 8px 8px 0 ;
+}
+/* *****************six line*********************** */
+.Wimage24{
+    width: 170px;
+    height: 200px;
+    margin: 0  8px 10px 70px;
+}
+.Wimage25{
+    width: 300px;
+    height: 200px;
+    margin: 0 8px 8px 0 ;
+}
+.Wimage26{
+    width: 170px;
+    height: 200px;
+    margin: 0 8px 8px 0 ;
+}
+
+
+

@@ -1,0 +1,61 @@
+.CimageD{
+    display: flex;
+}
+.Cimage1{
+    width: 390px;
+    height: 200px;
+    margin: 10px  8px 10px 70px;
+}
+.Cimage2{
+    width: 385px;
+    height: 200px;
+    margin: 10px 8px 8px 0 ;
+}
+.Cimage3{
+    width: 380px;
+    height: 200px;
+    margin: 10px 8px 8px 0 ;
+}
+
+/* ********************second line****************** */
+.Cimage4{
+    width: 300px;
+    height: 200px;
+    margin: 0 8px 10px 70px;
+}
+.Cimage5{
+    width: 295px;
+    height: 200px;
+    margin: 0 8px 8px 0 ;
+}
+.Cimage6{
+    width: 275px;
+    height: 200px;
+    margin: 0 8px 8px 0 ;
+}
+.Cimage7{
+    width: 275px;
+    height: 200px;
+    margin: 0 8px 8px 0 ;
+}
+/* ************************third line**************************** */
+.Cimage8{
+    width: 160px;
+    height: 200px;
+    margin: 0 8px 10px 70px;
+}
+.Cimage9{
+    width: 300px;
+    height: 200px;
+    margin: 0 8px 8px 0 ;
+}
+.Cimage10{
+    width: 350px;
+    height: 200px;
+    margin: 0 8px 8px 0 ;
+}
+.Cimage11{
+    width: 335px;
+    height: 200px;
+    margin: 0 8px 8px 0 ;
+}

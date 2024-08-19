@@ -1,0 +1,58 @@
+.SformdivD{
+    background-color: #F8F8F8;
+    /* border-top: 2px solid red; */
+    box-shadow: 3px 4px 9px  #626161;
+}
+/* Default styles */
+.SformH1 {
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 800;
+    margin: 50px 400px 20px 420px;
+    padding-top: 30px;
+}
+.singup_formP{
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin: 20px 300px 40px 300px;
+}
+
+.SformDiv {
+    display: flex;
+}
+
+.SformInput1, .SformInput2, .SformInput3, .SformInput4 {
+    font-size: 15px;
+    border: 1px solid rgb(198, 197, 197);
+    margin-left: 80px;
+    padding: 10px 370px 10px 15px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.SformInput2, .SformInput4 {
+    margin-left: 20px;
+}
+
+.SformInput3, .SformInput4 {
+    margin-top: 20px;
+}
+
+.SformInput1:hover, .SformInput2:hover, .SformInput3:hover, .SformInput4:hover{
+    border: 1px solid #c8ab55;
+    outline: none;
+}
+
+.SformBtn {
+    color: white;
+    font-weight: bold;
+    background-color: #c8ab55;
+    margin: 40px 0 50px 400px;
+    padding: 8px 230px;
+    border-radius: 5px;
+}
+
+.SformBtn:hover {
+    background-color: #E3C363;
+}

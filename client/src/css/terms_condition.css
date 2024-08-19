@@ -1,0 +1,39 @@
+.terms_conditionD{
+    background-image: url('../image/Terms&Condition.jpeg');
+    /* background-color: red; */
+    width: 100%;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.terms_conditionH1{
+    color: white;
+    font-size: 39px;
+    font-weight: 800;
+    padding-top: 100px;
+    font-family: sans-serif;
+    text-align: center; /* Center the text */
+}
+
+.terms_conditionH2{
+    font-size: 26px;
+    font-family: sans-serif;
+    font-weight: 800;
+    color: #222222;
+    margin: 15px 0 10px 70px;
+}
+
+pre , li{
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 500;
+    color:#343434;
+    margin: 15px  0 15px  70px;
+    text-indent: 0%;
+}
+li{
+    margin: 0 0 0 80px ;
+    list-style-type:disc;
+}

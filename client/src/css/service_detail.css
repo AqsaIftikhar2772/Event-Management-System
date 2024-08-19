@@ -1,0 +1,57 @@
+.serviceH1{
+    font-size: 28px;
+    font-weight: 800;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 40px 0 30px 0;
+}
+.serviceD{
+    display: flex;
+}
+.serviceIcon1 , .serviceIcon2 , .serviceIcon3{
+    width: 35px;
+    height: 35px;
+    color: #C3A043;
+    margin: 0 20px 15px 200px;
+}
+.serviceIcon2{
+margin: 0 20px 10px 195px ;
+}
+.serviceIcon3{
+    margin: 0 20px 10px 215px ;
+    }
+.serviceh1{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: sans-serif;
+    text-align: center;
+    margin-left: 15px;
+}
+.serviceP1 , .serviceP2 , .serviceP3{
+    margin: 10px 30px 60px 20px;
+    font-weight: 400;
+    text-align: center;
+    font-size: 17px;
+}
+
+/* ***************insta******************* */
+.instaD{
+    background-color: #D9B959;
+    height: 250px;
+    margin-bottom: 30px;
+}
+.instaH1{
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+    color: white;
+    padding-top:  80px ;
+}
+.instaP{
+    /* text-align: center; */
+    font-size: 15px;
+    font-weight: 600;
+    padding: 20px 0 0 80px;
+
+
+}

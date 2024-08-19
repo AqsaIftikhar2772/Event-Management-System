@@ -1,0 +1,136 @@
+/* Header styling */
+.logodiv {
+
+    box-shadow: 5px 5px 3px #cdcccc;
+    display: flex;
+    justify-content: space-between; /* Adjust logo and button positions */
+    align-items: center; /* Align items vertically */
+    padding: 10px; /* Add padding for better spacing */
+}
+
+.logo {
+    width: 200px; /* Adjust logo size */
+    margin-left:35px; /* Adjust margin */
+}
+
+.btn1 {
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding: 5px 20px; /* Adjust padding */
+    border-radius: 5px;
+    margin-right: 50px;
+    font-size: 15px;
+    background: linear-gradient(#D2B152, #b59131);
+}
+
+/* Responsive adjustments */
+@media only screen and (max-width: 768px) {
+    .logodiv {
+        flex-direction: column; /* Stack items vertically */
+        align-items: center; /* Center items horizontally */
+    }
+
+    .logo {
+        margin: 10px 0; /* Adjust margin */
+    }
+
+    .btn1 {
+        margin: 10px 0; /* Adjust margin */
+    }
+}
+/* header styling end */
+
+
+
+
+
+
+
+
+/* Hero section styling atart */
+.heroSeection {
+    background-image: url('../image/heroSection.jpeg');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.heroH1 {
+    color: white;
+    font-size: 39px;
+    font-weight: 800;
+    font-family: sans-serif;
+    text-align: center; /* Center the text */
+    padding: 130px 20px 0; /* Adjust padding */
+}
+.inputDiv{
+    /* display: flex; */
+}
+.venuType,
+.citytype {
+    border-radius: 5px;
+    font-size: 15px;
+}
+.venuType {
+    padding: 7px; /* Adjust padding */
+    margin-top: 50px;
+    margin-left: 530px; /* Center horizontally */
+    transform: translateX(-50%); /* Center horizontally */
+}
+
+.citytype {
+    padding: 7px 45px 7px 5px; /* Adjust padding */
+    margin-top: 20px; /* Reduce top margin */
+    margin-left: 100px;
+    transform: translateX(-50%);
+}
+
+.Hbtn {
+    background-color: #E3C363;
+    margin: 20px auto; /* Center horizontally */
+    padding: 7px 10px;
+    border-radius: 3px;
+    margin-left: 590px;
+}
+.Hbtn:hover{
+    background-color: #b59131;
+}
+
+/* Responsive adjustments */
+@media only screen and (max-width: 1024px) {
+    .heroH1 {
+        font-size: 30px; /* Adjust font size */
+        padding: 100px 20px 0; /* Adjust padding */
+    }
+    .venuType,
+    .citytype,
+    .Hbtn {
+        padding: 10px 10px; /* Adjust padding */
+        font-size: 13px; /* Adjust font size */
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .venuType,
+    .citytype {
+        margin-top: 20px; /* Reduce top margin */
+        padding: 8px; /* Adjust padding */
+    }
+
+    .Hbtn {
+        margin: 20px auto; /* Center horizontally */
+    }
+}
+
+
+
+/* 404 */
+
+.shado404{
+    border-top: 3px solid rgb(207, 205, 205);
+    background-color: #F8F8F8;
+    height: 495px;
+
+}

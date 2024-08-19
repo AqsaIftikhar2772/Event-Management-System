@@ -1,0 +1,17 @@
+
+.slide1 , .slide2 , .slide3{
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .slide1{
+    background-image: url('../image/slide1.jpeg');
+  }
+  .slide2{
+    background-image: url('../image/slide2.jpeg');
+  }
+  .slide3{
+    background-image: url('../image/slide1.jpeg');
+ }
